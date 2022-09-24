@@ -10,6 +10,9 @@ In this project, let's build a **Random Number Generator** by applying the conce
 
 ### Design Files
 
+
+###Check out the application in url
+ https://saiTRandomNum.ccbp.tech
 <details>
 <summary>Click to view</summary>
 
